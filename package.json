@@ -1,7 +1,7 @@
 {
-  "name": "P45",
+  "name": "P69",
   "version": "1.0.0",
-  "description": "P45",
+  "description": "P69",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -11,7 +11,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "P45"
+    "P69"
   ],
   "author": "CyberTitus",
   "license": "CC",
