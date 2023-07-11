@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: P45
+    name: P69
     env: docker
     plan: free
