@@ -1,6 +1,6 @@
 :root{
-	--bg: #111;
-	--text: #f4f3ee;
+	--bg: #00008B;
+	--text: #ADD8E6;
 	--hover: coral;
 }
 
@@ -86,7 +86,7 @@ main{
 
 @keyframes loading{
 	0%{
-		color: #fff;
+		color: #ADD8E6;
 	}50%{
 		color: grey;
 	}
